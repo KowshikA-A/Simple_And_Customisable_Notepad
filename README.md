@@ -44,13 +44,13 @@ Whether you're taking notes, writing code, or creating documents, the "Simple an
 
 **Screenshots of Overview**:
   <img width="725" alt="Screenshot 2023-10-03 at 6 12 37 PM" src="https://github.com/KowshikA-A/Simple_And_Customisable_Notepad/assets/92981602/6e71a5e1-6d59-4fd7-b2f3-a69f55e29316">
-<img width="730" alt="Screenshot 2023-10-03 at 6 12 50 PM" src="https://github.com/KowshikA-A/Simple_And_Customisable_Notepad/assets/92981602/9d32fcee-dffe-492b-a029-4ce4f84e37d5">
-<img width="724" alt="Screenshot 2023-10-03 at 6 13 00 PM" src="https://github.com/KowshikA-A/Simple_And_Customisable_Notepad/assets/92981602/2122af11-ad02-4133-830c-73f30990e666">
-<img width="731" alt="Screenshot 2023-10-03 at 6 13 10 PM" src="https://github.com/KowshikA-A/Simple_And_Customisable_Notepad/assets/92981602/00c4e462-04c7-4076-a0b5-d075b8fd7ea1">
-<img width="726" alt="Screenshot 2023-10-03 at 6 13 18 PM" src="https://github.com/KowshikA-A/Simple_And_Customisable_Notepad/assets/92981602/d149b089-1832-4085-84b0-86ff523f5d46">
-<img width="727" alt="Screenshot 2023-10-03 at 6 13 33 PM" src="https://github.com/KowshikA-A/Simple_And_Customisable_Notepad/assets/92981602/49ec3698-dc18-4d89-a86e-efa7446110ab">
-<img width="728" alt="Screenshot 2023-10-03 at 6 13 39 PM" src="https://github.com/KowshikA-A/Simple_And_Customisable_Notepad/assets/92981602/24832872-22b6-449c-9e43-199c79fdb715">
-<img width="730" alt="Screenshot 2023-10-03 at 6 14 04 PM" src="https://github.com/KowshikA-A/Simple_And_Customisable_Notepad/assets/92981602/bf599b33-40f6-4618-b91e-8e9606be97df">
+  <img width="730" alt="Screenshot 2023-10-03 at 6 12 50 PM" src="https://github.com/KowshikA-A/Simple_And_Customisable_Notepad/assets/92981602/9d32fcee-dffe-492b-a029-4ce4f84e37d5">
+  <img width="724" alt="Screenshot 2023-10-03 at 6 13 00 PM" src="https://github.com/KowshikA-A/Simple_And_Customisable_Notepad/assets/92981602/2122af11-ad02-4133-830c-73f30990e666">
+  <img width="731" alt="Screenshot 2023-10-03 at 6 13 10 PM" src="https://github.com/KowshikA-A/Simple_And_Customisable_Notepad/assets/92981602/00c4e462-04c7-4076-a0b5-d075b8fd7ea1">
+  <img width="726" alt="Screenshot 2023-10-03 at 6 13 18 PM" src="https://github.com/KowshikA-A/Simple_And_Customisable_Notepad/assets/92981602/d149b089-1832-4085-84b0-86ff523f5d46">
+  <img width="727" alt="Screenshot 2023-10-03 at 6 13 33 PM" src="https://github.com/KowshikA-A/Simple_And_Customisable_Notepad/assets/92981602/49ec3698-dc18-4d89-a86e-efa7446110ab">
+  <img width="728" alt="Screenshot 2023-10-03 at 6 13 39 PM" src="https://github.com/KowshikA-A/Simple_And_Customisable_Notepad/assets/92981602/24832872-22b6-449c-9e43-199c79fdb715">
+  <img width="730" alt="Screenshot 2023-10-03 at 6 14 04 PM" src="https://github.com/KowshikA-A/Simple_And_Customisable_Notepad/assets/92981602/bf599b33-40f6-4618-b91e-8e9606be97df">
 
 
 

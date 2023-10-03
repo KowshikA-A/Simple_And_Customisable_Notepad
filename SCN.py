@@ -105,11 +105,6 @@ edit_menu.add_command(label="Cut", command=cut_text)
 edit_menu.add_command(label="Copy", command=copy_text)
 edit_menu.add_command(label="Paste", command=paste_text)
 
-# Create Undo and Redo menu items and bind them to the functions
-edit_menu.add_separator()
-edit_menu.add_command(label="Undo", command=root.event_generate("<<Undo>>"))
-edit_menu.add_command(label="Redo", command=root.event_generate("<<Redo>>"))
-
 format_menu = tk.Menu(left_frame, tearoff=0)
 font_var = tk.StringVar()
 font_var.set("Arial")
@@ -194,6 +189,7 @@ shapes_button = tk.Button(left_frame, text="Shapes", width=5, command=lambda: sh
 shapes_button.pack(pady=5)
 
 root.mainloop()
+
 
 
 

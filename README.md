@@ -43,6 +43,7 @@ The "Simple and Customizable Notepad" is a user-friendly text editor built using
 Whether you're taking notes, writing code, or creating documents, the "Simple and Customizable Notepad" offers a versatile and customizable platform for your text editing needs. Download and use it for free to simplify your writing experience.
 
 **Screenshots of Overview**:
+  
   <img width="725" alt="Screenshot 2023-10-03 at 6 12 37 PM" src="https://github.com/KowshikA-A/Simple_And_Customisable_Notepad/assets/92981602/6e71a5e1-6d59-4fd7-b2f3-a69f55e29316">
   <img width="730" alt="Screenshot 2023-10-03 at 6 12 50 PM" src="https://github.com/KowshikA-A/Simple_And_Customisable_Notepad/assets/92981602/9d32fcee-dffe-492b-a029-4ce4f84e37d5">
   <img width="724" alt="Screenshot 2023-10-03 at 6 13 00 PM" src="https://github.com/KowshikA-A/Simple_And_Customisable_Notepad/assets/92981602/2122af11-ad02-4133-830c-73f30990e666">
